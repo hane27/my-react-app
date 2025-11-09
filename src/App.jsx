@@ -8,7 +8,7 @@ function Square() {
   }
 
   return (
-    <button 
+    <button
       className="square"
       onClick={handleClick}
     >
