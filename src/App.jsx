@@ -1,4 +1,8 @@
-export default function Square() {
+function Square() {
+  <button className="square">1</button>
+}
+
+export default function Board() {
   return (
     <>
       <div className="board-row">
